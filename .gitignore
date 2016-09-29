@@ -17,6 +17,7 @@
 [Rr]eleases/
 x64/
 x86/
+Build/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -169,6 +170,9 @@ csx/
 # Microsoft Azure Emulator
 ecf/
 rcf/
+
+# Microsoft Azure ApplicationInsights config file
+ApplicationInsights.config
 
 # Windows Store app package directories and files
 AppPackages/
